@@ -69,7 +69,8 @@ Insertion sort works by building a sorted portion of the list one element at a t
 
 **Time Complexity**: 
 - Best Case: O(n)
-- Worst Case: O(n^2)
+- Worst Case: O(nx<sup>2</sup>
+)
 
 #### Bubble Sort
 
@@ -77,7 +78,7 @@ Bubble sort repeatedly steps through the list, compares adjacent elements, and s
 
 **Time Complexity**: 
 - Best Case: O(n)
-- Worst Case: O(n^2)
+- Worst Case: O(nx<sup>2</sup>)
 
 ### Search Algorithms
 

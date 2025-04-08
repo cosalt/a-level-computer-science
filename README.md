@@ -1,4 +1,4 @@
-# A-Level Computer Science Revision Guide
+# A-Level Computer Science Revision Guide (Programming bit)
 
 This repository contains the essential concepts and algorithms required for A-level Computer Science, focusing on data structures, algorithms, and core programming concepts.
 

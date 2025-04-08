@@ -128,5 +128,5 @@ Text files are used to store plain text. Common operations with text files inclu
 
 ## License
 
-This repository is for educational purposes only. You are free to use and modify the content as you revise for your A-level Computer Science exam.
+This repository is for educational purposes only. You are free to use and push the content as you revise for your A-level Computer Science exam.
 
